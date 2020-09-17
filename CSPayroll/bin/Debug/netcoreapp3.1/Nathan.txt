@@ -1,0 +1,11 @@
+PAYSLIP FOR 9 2020
+============
+Name Of Staff: Nathan
+Hours Worked: 170
+
+Basic Pay: 5100:C
+Overtime: 155
+
+============
+Total Pay: 5255
+============

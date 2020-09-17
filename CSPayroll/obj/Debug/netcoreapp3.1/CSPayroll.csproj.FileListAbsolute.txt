@@ -1,0 +1,13 @@
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.exe
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.deps.json
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.runtimeconfig.json
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.runtimeconfig.dev.json
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.dll
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\bin\Debug\netcoreapp3.1\CSPayroll.pdb
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.csprojAssemblyReference.cache
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.AssemblyInfoInputs.cache
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.AssemblyInfo.cs
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.csproj.CoreCompileInputs.cache
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.dll
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.pdb
+C:\Users\brbry\source\repos\CSPayroll\CSPayroll\obj\Debug\netcoreapp3.1\CSPayroll.genruntimeconfig.cache

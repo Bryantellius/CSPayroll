@@ -1,0 +1,11 @@
+PAYSLIP FOR 9 2020
+============
+Name Of Staff: John
+Hours Worked: 160
+
+Basic Pay: 4800:C
+Overtime: 0
+
+============
+Total Pay: 4800
+============

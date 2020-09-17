@@ -1,0 +1,10 @@
+PAYSLIP FOR 9 2020
+============
+Name Of Staff: Michael
+Hours Worked: 160
+
+Basic Pay: 8000:C
+Allowance: 1000
+============
+Total Pay: 8000
+============

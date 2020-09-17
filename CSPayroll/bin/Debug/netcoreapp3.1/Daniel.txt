@@ -1,0 +1,10 @@
+PAYSLIP FOR 9 2020
+============
+Name Of Staff: Daniel
+Hours Worked: 190
+
+Basic Pay: 9500:C
+Allowance: 1000
+============
+Total Pay: 10500
+============

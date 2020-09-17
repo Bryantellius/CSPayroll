@@ -1,0 +1,11 @@
+PAYSLIP FOR 9 2020
+============
+Name Of Staff: Tanner
+Hours Worked: 180
+
+Basic Pay: 5400:C
+Overtime: 310
+
+============
+Total Pay: 5710
+============
